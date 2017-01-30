@@ -1,4 +1,4 @@
-update=Thứ tư, 25 Tháng một Năm 2017 21:41:18 ICT
+update=Thứ hai, 30 Tháng một Năm 2017 21:23:30 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,5 @@ LibName33=lib/MOSFET-P
 LibName34=lib/dc-dc
 LibName35=lib/usb_mini_b
 LibName36=lib/open-project
+LibName37=lib/microsd_socket
+LibName38=lib/microsd_spi_cd
