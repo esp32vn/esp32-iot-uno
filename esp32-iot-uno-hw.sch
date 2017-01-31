@@ -219,9 +219,9 @@ F 3 "" H 8250 7000 50  0000 C CNN
 	1    8250 7000
 	0    -1   -1   0   
 $EndComp
-Text GLabel 3150 6800 0    60   Input ~ 0
+Text GLabel 7500 700  0    60   Input ~ 0
 TXD
-Text GLabel 3500 6800 0    60   Input ~ 0
+Text GLabel 7500 800  0    60   Input ~ 0
 RXD
 Text GLabel 1750 6400 2    60   Input ~ 0
 D-
@@ -1178,9 +1178,9 @@ IO12
 Text GLabel 4250 3600 0    60   Input ~ 0
 IO13
 Text GLabel 4250 3700 0    60   Input ~ 0
-SD2
+U1RXD
 Text GLabel 4250 3800 0    60   Input ~ 0
-IO3
+U1TXD
 Text GLabel 6450 3900 2    60   Input ~ 0
 CLK
 Text GLabel 6450 3800 2    60   Input ~ 0
@@ -1668,13 +1668,9 @@ Wire Wire Line
 Wire Wire Line
 	1750 6400 1700 6400
 Wire Wire Line
-	3200 6800 3150 6800
+	3200 6700 3200 6850
 Wire Wire Line
-	3200 6700 3200 6800
-Wire Wire Line
-	3550 6800 3500 6800
-Wire Wire Line
-	3550 6700 3550 6800
+	3550 6700 3550 6850
 Wire Wire Line
 	3550 6450 3550 6500
 Wire Wire Line
@@ -2244,4 +2240,8 @@ Text GLabel 7100 1350 0    60   Input ~ 0
 IO26
 Text GLabel 7100 1450 0    60   Input ~ 0
 IO27
+Text GLabel 3550 6850 3    60   Input ~ 0
+U1RXD
+Text GLabel 3200 6850 3    60   Input ~ 0
+U1TXD
 $EndSCHEMATC
