@@ -3,6 +3,7 @@ stages:
 
 push to github:
   stage: deploy
-  only: master
+  only: 
+    - master
   script:
     - git push -q --mirror https://$GITHUB_TOKEN@github.com/$GIT_REPO.git
