@@ -7,3 +7,4 @@ push to github:
     - master
   script:
     - git push -q --mirror https://$GITHUB_TOKEN@github.com/$GITHUB_REPO.git
+    
