@@ -1,12 +1,12 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
 # Temporary files
+fp-lib-table
 *.000
 *.bak
 *.bck
 *.kicad_pcb-bak
 *~
-*.lib
 _autosave-*
 *.tmp
 
