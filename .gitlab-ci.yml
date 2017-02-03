@@ -6,4 +6,4 @@ push to github:
   only: 
     - master
   script:
-    - git push -q --mirror https://$GITHUB_TOKEN@github.com/$GIT_REPO.git
+    - git push -q --mirror https://$GITHUB_TOKEN@github.com/$GITHUB_REPO.git
