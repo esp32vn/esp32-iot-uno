@@ -40,6 +40,7 @@ LIBS:usb_mini_b
 LIBS:ESP8266
 LIBS:MOSFET-P
 LIBS:w_device
+LIBS:esp32-iot-uno-hw-cache
 EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
@@ -735,8 +736,6 @@ Text GLabel 6200 3800 2    60   Input ~ 0
 SD1/IO08
 Text GLabel 6200 3500 2    60   Input ~ 0
 IO0
-Text GLabel 6200 3400 2    60   Input ~ 0
-IO4
 NoConn ~ 6050 3300
 NoConn ~ 6050 3200
 NoConn ~ 6050 2800
@@ -2222,4 +2221,6 @@ F 3 "" H 10200 6450 60  0000 C CNN
 	1    10200 6450
 	0    -1   -1   0   
 $EndComp
+Text GLabel 6200 3400 2    60   Input ~ 0
+ADC2_0/IO4
 $EndSCHEMATC
