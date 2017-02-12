@@ -22,5 +22,6 @@
 
 ### Schematic.
 
+[![ESP32 IoT UNO Schematic](assets/esp32-iot-uno-sch.png)](assets/esp32-iot-uno-sch.svg)
 
 ### 3D

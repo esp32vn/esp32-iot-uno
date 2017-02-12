@@ -1,4 +1,4 @@
-update=Thứ sáu, 03 Tháng hai Năm 2017 10:28:47 ICT
+update=Chủ nhật, 12 Tháng hai Năm 2017 17:39:10 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -70,3 +70,13 @@ LibName38=lib/usb_mini_b
 LibName39=lib/ESP8266
 LibName40=lib/MOSFET-P
 LibName41=lib/w_device
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=assets/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
