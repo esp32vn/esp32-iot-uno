@@ -1,7 +1,7 @@
 stages:
   - deploy
 
-push to github:
+push_to_github:
   stage: deploy
   only: 
     - master
