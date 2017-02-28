@@ -20,8 +20,14 @@
 - Support display with header oled.
 - 1 reset button, 1 flash button.
 
-### Schematic.
+### Schematic
 
 [![ESP32 IoT UNO Schematic](assets/esp32-iot-uno-sch.png)](assets/esp32-iot-uno-sch.svg)
 
+### PCB
+
+[![ESP32 IoT UNO PCB](assets/esp32-iot-uno-pcb.png)](assets/esp32-iot-uno-pcb.svg)
+
 ### 3D
+
+[![ESP32 IoT UNO 3D](assets/esp32-iot-uno-3d.png)](assets/esp32-iot-uno-sch.svg)
