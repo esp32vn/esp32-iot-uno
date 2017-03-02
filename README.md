@@ -30,4 +30,11 @@
 
 ### 3D
 
-[![ESP32 IoT UNO 3D](assets/esp32-iot-uno-3d.png)](assets/esp32-iot-uno-sch.svg)
+#### TOP
+
+[![ESP32 IoT UNO 3D TOP](assets/esp32-iot-uno-3d-top.png)](assets/esp32-iot-uno-pcb.svg)
+
+#### DOWN
+
+[![ESP32 IoT UNO 3D DOWN](assets/esp32-iot-uno-3d-down.png)](assets/esp32-iot-uno-pcb.svg)
+
