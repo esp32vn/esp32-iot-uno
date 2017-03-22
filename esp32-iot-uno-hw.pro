@@ -1,4 +1,4 @@
-update=22/05/2015 07:44:53
+update=Thứ hai, 20 Tháng ba Năm 2017 16:37:12 ICT
 version=1
 last_client=kicad
 [general]
@@ -27,6 +27,16 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=
@@ -60,3 +70,16 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=lib/esp-uno
+LibName31=lib/w_device
+LibName32=lib/usb_mini_b
+LibName33=lib/usb-b
+LibName34=lib/open-project
+LibName35=lib/microsd_spi_cd
+LibName36=lib/microsd_socket
+LibName37=lib/esp32-wrover-v3
+LibName38=lib/dc-dc
+LibName39=lib/MOSFET-P
+LibName40=lib/MOSFET-N
+LibName41=lib/ESP8266
+LibName42=lib/CP2102
