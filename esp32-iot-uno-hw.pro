@@ -1,4 +1,4 @@
-update=Thứ hai, 20 Tháng ba Năm 2017 16:37:12 ICT
+update=Thứ năm, 23 Tháng ba Năm 2017 13:31:12 ICT
 version=1
 last_client=kicad
 [general]
@@ -27,16 +27,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=60
-ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=
@@ -83,3 +73,13 @@ LibName39=lib/MOSFET-P
 LibName40=lib/MOSFET-N
 LibName41=lib/ESP8266
 LibName42=lib/CP2102
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=assets/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
