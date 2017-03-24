@@ -38,3 +38,7 @@
 
 [![ESP32 IoT UNO 3D DOWN](assets/esp32-iot-uno-3d-down.png)](assets/esp32-iot-uno-pcb.svg)
 
+### Gerber
+
+[Download](./assets/gerber.zip)
+
