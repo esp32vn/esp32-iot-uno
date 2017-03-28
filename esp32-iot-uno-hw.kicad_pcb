@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 (kicad_pcb (version 20170123) (host pcbnew no-vcs-found-4011ed4~58~ubuntu16.04.1)
-=======
-(kicad_pcb (version 20170123) (host pcbnew no-vcs-found-23a23d3~58~ubuntu16.04.1)
->>>>>>> upstream/develop
 
   (general
     (links 199)
@@ -10,11 +6,7 @@
     (area 108.987715 68.715923 189.589286 122.115925)
     (thickness 1.6)
     (drawings 668)
-<<<<<<< HEAD
     (tracks 1340)
-=======
-    (tracks 1349)
->>>>>>> upstream/develop
     (zones 0)
     (modules 98)
     (nets 62)
@@ -45,7 +37,7 @@
   )
 
   (setup
-    (last_trace_width 1)
+    (last_trace_width 0.3)
     (trace_clearance 0.254)
     (zone_clearance 0.508)
     (zone_45_only no)
@@ -162,7 +154,7 @@
 
   (net_class Default "This is the default net class."
     (clearance 0.254)
-    (trace_width 1)
+    (trace_width 0.3)
     (via_dia 1)
     (via_drill 0.6)
     (uvia_dia 0.3)
@@ -5333,11 +5325,8 @@
   (segment (start 160.2613 90.9193) (end 159.143599 90.9193) (width 0.3) (layer F.Cu) (net 9))
   (segment (start 159.143599 90.9193) (end 159.143599 89.292299) (width 0.3) (layer F.Cu) (net 9) (status 30))
   (segment (start 159.143599 89.292299) (end 159.1116 89.2603) (width 0.3) (layer F.Cu) (net 9) (status 30))
-<<<<<<< HEAD
   (segment (start 165.735 86.614002) (end 175.103475 86.614002) (width 1) (layer F.Cu) (net 10))
   (segment (start 175.103475 86.614002) (end 178.765099 90.275626) (width 1) (layer F.Cu) (net 10))
-=======
->>>>>>> upstream/develop
   (segment (start 172.3185 93.9335) (end 172.3185 95.928) (width 1) (layer F.Cu) (net 10))
   (segment (start 173.2915 96.901) (end 176.403 96.901) (width 1) (layer F.Cu) (net 10))
   (segment (start 172.3185 95.928) (end 173.2915 96.901) (width 1) (layer F.Cu) (net 10))
@@ -5383,12 +5372,6 @@
   (segment (start 149.352 89.462894) (end 149.352 90.17) (width 1) (layer F.Cu) (net 10))
   (segment (start 149.352 87.684894) (end 149.352 89.462894) (width 1) (layer F.Cu) (net 10))
   (via (at 149.352 90.17) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 10))
-<<<<<<< HEAD
-=======
-  (segment (start 166.442106 86.614002) (end 165.735 86.614002) (width 1) (layer F.Cu) (net 10))
-  (segment (start 174.951071 86.614002) (end 166.442106 86.614002) (width 1) (layer F.Cu) (net 10))
-  (segment (start 175.027273 86.5378) (end 174.951071 86.614002) (width 0.6) (layer F.Cu) (net 10))
->>>>>>> upstream/develop
   (via (at 165.735 86.614002) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 10))
   (segment (start 149.669601 101.8413) (end 149.656901 101.854) (width 0.3) (layer F.Cu) (net 10))
   (segment (start 149.656901 101.854) (end 147.193004 101.854) (width 1) (layer F.Cu) (net 10))
@@ -5402,10 +5385,6 @@
   (segment (start 143.002 110.998) (end 145.7325 110.998) (width 1) (layer B.Cu) (net 10))
   (segment (start 141.1986 104.4956) (end 141.278281 104.4956) (width 0.3) (layer B.Cu) (net 10))
   (via (at 144.000126 107.217445) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 10))
-<<<<<<< HEAD
-=======
-  (segment (start 175.133 86.643527) (end 175.027273 86.5378) (width 0.3) (layer F.Cu) (net 10))
->>>>>>> upstream/develop
   (segment (start 145.7325 110.998) (end 148.336 110.998) (width 1) (layer F.Cu) (net 10))
   (segment (start 148.336 110.998) (end 148.5265 110.998) (width 0.3) (layer F.Cu) (net 10))
   (segment (start 148.082 106.538901) (end 148.082 110.744) (width 1) (layer F.Cu) (net 10))
@@ -5426,10 +5405,6 @@
   (via (at 122.0216 88.4428) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 10))
   (segment (start 123.0376 88.4428) (end 122.0216 88.4428) (width 1) (layer F.Cu) (net 10))
   (segment (start 122.082739 97.840087) (end 116.367739 97.840087) (width 1) (layer B.Cu) (net 10) (status 20))
-<<<<<<< HEAD
-=======
-  (segment (start 175.027273 86.5378) (end 178.765099 90.275626) (width 1) (layer F.Cu) (net 10))
->>>>>>> upstream/develop
   (segment (start 178.765099 90.275626) (end 178.765099 91.3003) (width 1) (layer F.Cu) (net 10) (status 20))
   (segment (start 157.543601 77.2668) (end 157.543601 77.293949) (width 0.3) (layer F.Cu) (net 10) (status 30))
   (segment (start 157.543601 77.293949) (end 159.143599 78.893947) (width 0.3) (layer F.Cu) (net 10) (status 30))
@@ -5437,17 +5412,10 @@
   (segment (start 123.5086 85.3788) (end 122.635185 85.3788) (width 0.3) (layer F.Cu) (net 10) (status 10))
   (segment (start 122.635185 85.3788) (end 122.343729 85.670256) (width 0.3) (layer F.Cu) (net 10))
   (segment (start 122.343729 85.670256) (end 122.343729 86.686256) (width 0.8) (layer F.Cu) (net 10))
-<<<<<<< HEAD
   (segment (start 122.343729 86.686256) (end 122.703273 87.0458) (width 0.8) (layer F.Cu) (net 10))
   (segment (start 122.703273 87.0458) (end 123.0376 87.0458) (width 0.3) (layer F.Cu) (net 10))
   (segment (start 157.543601 81.0768) (end 157.543601 82.9818) (width 0.8) (layer F.Cu) (net 10) (status 30))
   (segment (start 178.765099 91.3003) (end 178.765099 92.6973) (width 1) (layer F.Cu) (net 10) (status 30))
-=======
-  (segment (start 122.343729 86.686256) (end 122.703273 87.0458) (width 1) (layer F.Cu) (net 10))
-  (segment (start 122.703273 87.0458) (end 123.0376 87.0458) (width 0.3) (layer F.Cu) (net 10))
-  (segment (start 157.543601 81.0768) (end 157.543601 82.9818) (width 0.8) (layer F.Cu) (net 10) (status 30))
-  (segment (start 178.765099 91.3003) (end 178.765099 92.6973) (width 0.8) (layer F.Cu) (net 10) (status 30))
->>>>>>> upstream/develop
   (segment (start 131.0386 84.3788) (end 131.572101 84.3788) (width 1) (layer F.Cu) (net 10))
   (segment (start 131.572101 83.4898) (end 131.572101 85.2678) (width 1) (layer F.Cu) (net 10) (status 30))
   (segment (start 131.0386 84.3788) (end 131.0386 84.023301) (width 0.3) (layer F.Cu) (net 10))
@@ -5589,7 +5557,6 @@
   (segment (start 133.1721 81.1783) (end 133.1721 81.6483) (width 0.3) (layer F.Cu) (net 18) (status 20))
   (segment (start 133.1721 81.6483) (end 135.394599 81.6483) (width 0.3) (layer F.Cu) (net 18) (status 30))
   (segment (start 135.394599 81.6483) (end 135.4836 81.737301) (width 0.3) (layer F.Cu) (net 18) (status 30))
-<<<<<<< HEAD
   (segment (start 125.9586 81.9288) (end 125.9586 80.6958) (width 0.3) (layer F.Cu) (net 19))
   (segment (start 125.9586 80.6958) (end 126.2634 80.391) (width 0.3) (layer F.Cu) (net 19))
   (segment (start 126.2634 80.391) (end 129.0828 80.391) (width 0.3) (layer F.Cu) (net 19))
@@ -5599,17 +5566,6 @@
   (segment (start 132.369739 88.315087) (end 133.1721 87.512726) (width 0.3) (layer F.Cu) (net 19))
   (segment (start 130.718739 88.315087) (end 132.369739 88.315087) (width 0.3) (layer F.Cu) (net 19))
   (segment (start 133.1721 87.512726) (end 133.1721 87.1093) (width 0.3) (layer F.Cu) (net 19))
-=======
-  (segment (start 125.9586 81.9288) (end 125.9586 80.6958) (width 0.3) (layer F.Cu) (net 19) (status 10))
-  (segment (start 125.9586 80.6958) (end 126.3396 80.3148) (width 0.3) (layer F.Cu) (net 19))
-  (segment (start 126.3396 80.3148) (end 129.0066 80.3148) (width 0.3) (layer F.Cu) (net 19))
-  (segment (start 132.369739 88.315087) (end 133.1721 87.512726) (width 0.3) (layer F.Cu) (net 19))
-  (segment (start 129.0066 80.3148) (end 129.8956 81.2038) (width 0.3) (layer F.Cu) (net 19))
-  (segment (start 129.8956 87.491948) (end 130.718739 88.315087) (width 0.3) (layer F.Cu) (net 19))
-  (segment (start 129.8956 81.2038) (end 129.8956 87.491948) (width 0.3) (layer F.Cu) (net 19))
-  (segment (start 130.718739 88.315087) (end 132.369739 88.315087) (width 0.3) (layer F.Cu) (net 19))
-  (segment (start 133.1721 87.512726) (end 133.1721 87.1093) (width 0.3) (layer F.Cu) (net 19) (status 20))
->>>>>>> upstream/develop
   (segment (start 133.1721 87.1093) (end 135.394599 87.1093) (width 0.3) (layer F.Cu) (net 19) (status 30))
   (segment (start 135.394599 87.1093) (end 135.4836 87.020299) (width 0.3) (layer F.Cu) (net 19) (status 30))
   (segment (start 131.5721 87.1093) (end 131.5721 86.982885) (width 0.3) (layer F.Cu) (net 20) (status 30))
@@ -5977,33 +5933,16 @@
   (segment (start 161.8 114.425) (end 161.671012 114.553988) (width 0.3) (layer B.Cu) (net 35))
   (via (at 161.671 114.553988) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 35))
   (segment (start 160.8636 114.763022) (end 160.8636 114.9658) (width 0.3) (layer F.Cu) (net 35) (status 30))
-<<<<<<< HEAD
   (segment (start 122.195273 84.3788) (end 120.946729 83.130256) (width 0.3) (layer F.Cu) (net 36))
-=======
->>>>>>> upstream/develop
   (segment (start 117.209739 83.489087) (end 118.780739 83.489087) (width 0.4) (layer F.Cu) (net 36) (status 10))
   (segment (start 118.780739 83.489087) (end 120.946729 85.655077) (width 0.4) (layer F.Cu) (net 36))
   (segment (start 120.946729 85.655077) (end 120.946729 86.686256) (width 0.4) (layer F.Cu) (net 36))
   (via (at 120.946729 86.686256) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 36))
   (segment (start 120.946729 83.130256) (end 120.946729 86.686256) (width 0.4) (layer B.Cu) (net 36))
-<<<<<<< HEAD
   (segment (start 123.5086 84.3788) (end 122.195273 84.3788) (width 0.3) (layer F.Cu) (net 36) (status 10))
   (via (at 120.946729 83.130256) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 36))
   (segment (start 123.5086 84.8788) (end 121.169517 84.8788) (width 0.3) (layer F.Cu) (net 37))
   (segment (start 121.169517 84.8788) (end 119.129804 82.839087) (width 0.4) (layer F.Cu) (net 37))
-=======
-  (segment (start 121.446728 83.630255) (end 120.946729 83.130256) (width 0.3) (layer F.Cu) (net 36))
-  (segment (start 123.5086 84.3788) (end 122.195273 84.3788) (width 0.3) (layer F.Cu) (net 36) (status 10))
-  (segment (start 122.195273 84.3788) (end 121.446728 83.630255) (width 0.3) (layer F.Cu) (net 36))
-  (via (at 120.946729 83.130256) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 36))
-  (segment (start 121.193739 84.886087) (end 122.420778 84.886087) (width 0.3) (layer F.Cu) (net 37))
-  (segment (start 122.420778 84.886087) (end 122.428065 84.8788) (width 0.3) (layer F.Cu) (net 37))
-  (segment (start 122.428065 84.8788) (end 122.7836 84.8788) (width 0.3) (layer F.Cu) (net 37))
-  (segment (start 122.7836 84.8788) (end 123.5086 84.8788) (width 0.3) (layer F.Cu) (net 37) (status 20))
-  (segment (start 121.193739 84.886087) (end 120.194674 83.887022) (width 0.4) (layer F.Cu) (net 37))
-  (segment (start 120.194674 83.887022) (end 120.177739 83.887022) (width 0.3) (layer F.Cu) (net 37))
-  (segment (start 119.129804 82.839087) (end 120.177739 83.887022) (width 0.4) (layer F.Cu) (net 37))
->>>>>>> upstream/develop
   (segment (start 117.209739 82.839087) (end 119.129804 82.839087) (width 0.4) (layer F.Cu) (net 37) (status 10))
   (segment (start 135.8036 109.6088) (end 135.5266 109.6088) (width 0.3) (layer F.Cu) (net 38) (status 30))
   (segment (start 133.5786 111.5568) (end 133.4516 111.5568) (width 0.3) (layer F.Cu) (net 38) (status 30))
@@ -6242,14 +6181,11 @@
   (segment (start 124.509501 78.612899) (end 124.4586 78.6638) (width 0.3) (layer F.Cu) (net 54))
   (segment (start 124.4586 79.351) (end 124.4586 78.6638) (width 0.3) (layer F.Cu) (net 54))
   (segment (start 124.4586 79.351) (end 124.4586 81.9288) (width 0.3) (layer F.Cu) (net 54) (status 20))
-<<<<<<< HEAD
   (segment (start 126.4586 81.9288) (end 126.4586 81.1864) (width 0.3) (layer F.Cu) (net 55))
   (segment (start 126.4586 81.1864) (end 126.6825 80.9625) (width 0.3) (layer F.Cu) (net 55))
   (segment (start 126.6825 80.9625) (end 128.5113 80.9625) (width 0.3) (layer F.Cu) (net 55))
   (segment (start 128.5113 80.9625) (end 128.7526 81.2038) (width 0.3) (layer F.Cu) (net 55))
   (segment (start 128.7526 81.2038) (end 128.7526 81.5848) (width 0.3) (layer F.Cu) (net 55))
-=======
->>>>>>> upstream/develop
   (segment (start 131.166999 76.376401) (end 130.374052 77.169348) (width 0.3) (layer F.Cu) (net 55))
   (segment (start 130.374052 78.367242) (end 130.374052 79.074348) (width 0.3) (layer F.Cu) (net 55))
   (segment (start 134.8113 77.076401) (end 134.1113 76.376401) (width 0.3) (layer F.Cu) (net 55) (status 10))
@@ -6262,16 +6198,7 @@
   (segment (start 134.1113 76.376401) (end 131.166999 76.376401) (width 0.3) (layer F.Cu) (net 55))
   (segment (start 129.874053 79.574347) (end 130.374052 79.074348) (width 0.3) (layer B.Cu) (net 55))
   (via (at 130.374052 79.074348) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 55))
-<<<<<<< HEAD
   (via (at 128.7526 81.5848) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 55))
-=======
-  (segment (start 126.4586 80.9578) (end 126.5936 80.8228) (width 0.3) (layer F.Cu) (net 55))
-  (segment (start 128.7526 81.2038) (end 128.7526 81.5848) (width 0.3) (layer F.Cu) (net 55))
-  (segment (start 126.4586 81.9288) (end 126.4586 80.9578) (width 0.3) (layer F.Cu) (net 55) (status 10))
-  (segment (start 126.5936 80.8228) (end 128.3716 80.8228) (width 0.3) (layer F.Cu) (net 55))
-  (via (at 128.7526 81.5848) (size 1) (drill 0.6) (layers F.Cu B.Cu) (net 55))
-  (segment (start 128.3716 80.8228) (end 128.7526 81.2038) (width 0.3) (layer F.Cu) (net 55))
->>>>>>> upstream/develop
   (segment (start 158.3485 111.9335) (end 158.3485 110.6335) (width 0.3) (layer F.Cu) (net 56))
   (segment (start 158.3485 110.6335) (end 159.004 109.978) (width 0.3) (layer F.Cu) (net 56))
   (segment (start 159.004 109.978) (end 159.004 101.6) (width 0.3) (layer F.Cu) (net 56))
@@ -6513,11 +6440,7 @@
         (xy 123.605087 80.006789) (xy 123.6086 79.972576) (xy 123.6086 82.0288) (xy 123.228157 82.0288) (xy 123.063058 82.044988)
         (xy 122.904247 82.092936) (xy 122.757774 82.170817) (xy 122.629218 82.275665) (xy 122.523475 82.403486) (xy 122.444573 82.549412)
         (xy 122.395518 82.707884) (xy 122.378178 82.872866) (xy 122.393213 83.038074) (xy 122.419956 83.128938) (xy 122.395518 83.207884)
-<<<<<<< HEAD
         (xy 122.379437 83.360882) (xy 122.145188 83.126633) (xy 122.14678 83.01259) (xy 122.101071 82.78174) (xy 122.011393 82.564164)
-=======
-        (xy 122.379437 83.360883) (xy 122.145188 83.126633) (xy 122.14678 83.01259) (xy 122.101071 82.78174) (xy 122.011393 82.564164)
->>>>>>> upstream/develop
         (xy 121.881162 82.368151) (xy 121.715339 82.201167) (xy 121.585958 82.113898) (xy 121.689097 82.048444) (xy 121.859518 81.886154)
         (xy 121.995171 81.693854) (xy 122.090889 81.478868) (xy 122.143027 81.249384) (xy 122.14678 80.98059) (xy 122.101071 80.74974)
         (xy 122.011393 80.532164) (xy 121.881162 80.336151) (xy 121.715339 80.169167) (xy 121.52024 80.03757) (xy 121.303296 79.946376)
