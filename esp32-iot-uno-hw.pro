@@ -1,4 +1,4 @@
-update=Thứ tư, 29 Tháng ba Năm 2017 10:30:20 ICT
+update=Thứ sáu, 31 Tháng ba Năm 2017 10:28:51 ICT
 version=1
 last_client=kicad
 [general]
@@ -84,3 +84,4 @@ LibName40=lib/MOSFET-N
 LibName41=lib/ESP8266
 LibName42=lib/CP2102
 LibName43=lib/tom_kicad
+LibName44=lib/tc1264
