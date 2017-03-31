@@ -1,4 +1,4 @@
-# esp32-iot-uno
+# esp32-iot-uno 
 
 ## Features
 
@@ -8,6 +8,7 @@
 - Vietnamese doc support from [https://esp32.vn](https://esp32.vn).
 - Open hardware with CC-BY-SA license.
 - Design with KiCad.
+- Size : 68,58x53.34(mm)
 
 ## Hardware.
 
