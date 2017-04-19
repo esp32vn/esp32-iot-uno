@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "assets/esp32-iot-uno-68,58x53.34(mm)/"))
+      (outputdirectory assets))
   )
 
   (net 0 "")
@@ -315,10 +315,10 @@
       (net 1 GND))
     (pad 1 thru_hole rect (at 0 0 90) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask)
       (net 59 "Net-(BAT1-Pad1)"))
-    (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_2x01_Pitch2.00mm.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+    (model ${KIPRJMOD}/lib/3d/s2b-ph-kl.wrl
+      (at (xyz 0.03937007874015748 0 0))
+      (scale (xyz 1 0.6 0.6))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -4716,7 +4716,7 @@
   (gr_line (start 126.111 100.457) (end 125.476 99.822) (angle 90) (layer F.SilkS) (width 0.2))
   (gr_line (start 126.746 99.822) (end 126.111 100.457) (angle 90) (layer F.SilkS) (width 0.2))
   (gr_line (start 125.476 99.822) (end 126.746 99.822) (angle 90) (layer F.SilkS) (width 0.2))
-  (gr_text "5.5 -28 VDC" (at 116.8654 117.729) (layer F.SilkS)
+  (gr_text "4.5 -30 VDC" (at 116.8654 117.729) (layer F.SilkS)
     (effects (font (size 1.5 0.8) (thickness 0.2)))
   )
   (gr_text " https://esp32.vn" (at 140.6398 85.3948 90) (layer F.SilkS)
