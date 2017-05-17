@@ -1,31 +1,28 @@
 # esp32-iot-uno 
 
-## Features
+## Hardware features
 
-- Power input 4V to 30V and 5V USB.
-- Auto enter program mode via Serial - Pre-program OTA firmware.
-- ESP32 and Arduino Library.
-- Vietnamese doc support from [https://esp32.vn](https://esp32.vn).
-- Open hardware with CC-BY-SA license.
-- Design with KiCad.
-- Size : 68,58x53.34(mm)
+- ESP32 WiFi, Bluetooth LE SoC - 240Mhz - Module ESP-WROOM-32
+- Automatic select 3 power sources (DC6-28V, USB and Battery)
+- Auto download Flash mode
+- Integrated SDCARD slot (support 1-bit mode)
+- Open hardware design with KiCad, CC-BY-SA license.
+- I2C OLED display header 
+- Lithium-Ion Battery Charger
+- 1 Reset button, 1 programable button
+- 1 Power LED, 1 programable LED, 1 Charger LED 
+- Compatible with Shields for ESP32 in the future (Gateway - GSM/GPRS/GPS and Lora Shield, Connectivity - CAN, RS485, RS232 Shield, Audio Shield, ...)
 
-## Hardware.
-
-- Microcontroller: ESP-32 WROVER.
-	- CPU: ESP-32.
-	- Architecture: 32-bit with TSMC ultra-low power 40nm technology.
-- Operating Voltage: 3.3V.
-- IO Voltage: 3.3V.
-- IO pin: 23 pin with 6 pin Analog (A0-A5).
-- Support display with header oled.
-- 1 reset button, 1 flash button.
 
 ### Images
 
 [![ESP32 IoT UNO Images1](assets/esp32_uno_0776.jpg)](assets/esp32_uno_0776.jpg)
 
 [![ESP32 IoT UNO Images2](assets/esp32_uno_0826.jpg)](assets/esp32_uno_0826.jpg)
+
+### Pinout:
+
+[![ESP32 IoT Pinout](assets/Esp32-pinout.png)](assets/Esp32-pinout.png)
 
 ### Schematic
 
