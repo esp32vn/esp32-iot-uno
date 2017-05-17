@@ -23,9 +23,9 @@
 
 ### Images
 
-[![ESP32 IoT UNO Images1](assets/esp32-iot-0776.jpg)](assets/esp32-iot-0776.jpg)
+[![ESP32 IoT UNO Images1](assets/esp32_uno_0776.jpg)](assets/esp32_uno_0776.jpg)
 
-[![ESP32 IoT UNO Images2](assets/esp32-iot-0826.jpg)](assets/esp32-iot-0826.jpg)
+[![ESP32 IoT UNO Images2](assets/esp32_uno_0826.jpg)](assets/esp32_uno_0826.jpg)
 
 ### Schematic
 
