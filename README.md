@@ -43,3 +43,7 @@
 
 [Download](./assets/gerber.zip)
 
+### License
+
+- CC-BY-SA 
+- This creative commons license requires you to release all derivative works under this same license. You must give credit to the original author of the work, state their name and the title of the original work, say that you modified the work if you did and include the attribution logo, website: https://esp32.vn
